@@ -1,5 +1,3 @@
-# python_nanodegree
-Repository for files/code used in the Udacity AI Programming with Python Nanodegree
-Includes all files necessary for the 2 Final Projects:
-  1. Jupyter Notebook for Image Classifier
-  2. Python scripts for the Image Classifier Appplication
+# AI Programming with Python Project
+
+Project code for Udacity's AI Programming with Python Nanodegree program. In this project, students first develop code for an image classifier built with PyTorch, then convert it into a command line application.
