@@ -5,6 +5,7 @@ Project code for Udacity's AI Programming with Python Nanodegree program. In thi
 Student's Note:  
 The following files are those used for project submission  
 Image Classifier Project.ipynb  
+helper.py (Udacity file used by Image Classifier Project.ipynb file)  
 predict.py  
 train.py  
 utils.py  
